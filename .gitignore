@@ -1,0 +1,16 @@
+# Compiled files
+/FinalContent
+
+# target
+/target
+
+# Netbeans config, never commit this file
+nb-configuration.xml
+
+# Netbeans Action file
+nbactions.xml
+
+#webapp
+webapp-runner.jar
+
+Procfile
